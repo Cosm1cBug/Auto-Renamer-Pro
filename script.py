@@ -1,33 +1,34 @@
 class script(object):
 
 
-    START_TEXT = """** Hai {}** , 
+    START_TEXT = """** Hello {}** , 
 
-I am a Simple File Renamer Bot with  Permanent Thumbnail support
+I am just a Simple File Renamer Bot with  Permanent Thumbnail support
 
 Send me any Telegram file and choose appropriate option!
 
+I will do the rest.
 """
 
-    RENAME_403_ERR = "What Are You Doing? You are Banned"
+    RENAME_403_ERR = "What Are You Doing? You are Banned!"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @CosmicBug"
 
-    DOWNLOAD_START = "Download Started... "
+    DOWNLOAD_START = "Downloading Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me!**"
 
-    SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
+    SAVED_THUMB = "Thumbnail Saved Permanently✅ "
 
-    DEL_THUMB = "Thumbnail cleared succesfully!"
+    DEL_THUMB = "Thumbnail deleted succesfully!"
 
     NO_THUMB = "No thumbnails found!"
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "@CosmicBug"
 
     HELP_USER = """
 
@@ -42,25 +43,21 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @CosmicBug</b>
 """
 
     ABOUT_TEXT = """
 
 **About Me**
 
-○ ᴍʏ ɴᴀᴍᴇ : 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Clone
+○ ᴍʏ ɴᴀᴍᴇ : Auto Renamer Pro
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
 ○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ 
 
-○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
+○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ  
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
-
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+○ ᴄʀᴇᴀᴛᴏʀ : [@CosmicBug](https://t.me/CosmicBug)
 
 """
