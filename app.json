@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://github.com/Cosm1cBug/RENAMER-BOT",
+  "success_url": "https://github.com/Cosm1cBug/Auto-Renamer-Pro",
   "website": "https://github.com/Cosm1cBug",
-  "repository": "https://github.com/Cosm1cBug/RENAMER-BOT",
+  "repository": "https://github.com/Cosm1cBug/Auto-Renamer-Pro",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
